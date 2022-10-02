@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "985410041375",
+    "project_id": "club-registration-app",
+    "storage_bucket": "club-registration-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:985410041375:android:c5b88e6537bfa473c0872a",
+        "android_client_info": {
+          "package_name": "com.example.clubapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "985410041375-85pq0r5d3pk2g6vbko37j7m93jc52268.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCALh9ZfQ47gG7gRWLIGfXypotxWoSJ0SU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "985410041375-85pq0r5d3pk2g6vbko37j7m93jc52268.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
